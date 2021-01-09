@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7c482dd2-72bb-4453-80ab-c01b8a824bef" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>inter</find>
+      <find>ballIcon</find>
+      <find>ballIcon``</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1VU5MOOkkCM490BXMRGgjPq3nyo" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1577726715007" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="new_game" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7c482dd2-72bb-4453-80ab-c01b8a824bef" name="Default Changelist" comment="" />
+      <created>1576512326269</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576512326269</updated>
+      <workItem from="1577294792841" duration="1787000" />
+      <workItem from="1577296604850" duration="1800000" />
+      <workItem from="1577298430949" duration="1421000" />
+      <workItem from="1577305520429" duration="720000" />
+      <workItem from="1577382778381" duration="395000" />
+      <workItem from="1577383215371" duration="107000" />
+      <workItem from="1577720215345" duration="1624000" />
+      <workItem from="1577723190484" duration="673000" />
+      <workItem from="1577725021640" duration="815000" />
+      <workItem from="1578326779619" duration="2104000" />
+      <workItem from="1578328924685" duration="1784000" />
+      <workItem from="1578330735180" duration="1788000" />
+      <workItem from="1578332563154" duration="1614000" />
+      <workItem from="1578334386749" duration="1822000" />
+      <workItem from="1578336237134" duration="787000" />
+      <workItem from="1578338344668" duration="502000" />
+      <workItem from="1578934052556" duration="389000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="blocks" />
+        <watch expression="visibleBlocks" />
+        <watch expression="block" />
+        <watch expression="createRectangle(ball).intersects(createRectangle(block))" language="JAVA" />
+        <watch expression="createRectangle(ball)" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>createRectangle(ball)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>createRectangle(ball).intersects(createRectangle(block))</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+</project>
